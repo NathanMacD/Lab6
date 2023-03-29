@@ -1,0 +1,9 @@
+*.log
+obj/
+.git
+.vs
+.git/
+.vs/
+appsettings
+appsettings.Development
+bin/
